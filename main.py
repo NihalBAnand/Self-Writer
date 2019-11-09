@@ -34,7 +34,7 @@ for instr in commands:
     
     
     
-    
+exe.write("\nmain()")
   
 
 
